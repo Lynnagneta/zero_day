@@ -1,1 +1,1 @@
-My readme file
+Prints kernel name
